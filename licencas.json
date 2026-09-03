@@ -1,7 +1,13 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-02T12:38:14.436358+00:00",
+  "generated_at": "2026-09-03T11:06:26.544868+00:00",
   "licenses": [
+    {
+      "installation_id": "3694b23640f84f7b19a32793bf3348c5f264c00bc3c539c710e1ef78f1a0a719",
+      "label": "Eder",
+      "status": "active",
+      "expires_at": null
+    },
     {
       "installation_id": "b274e99b663b49d164540242a81178790bb40f842d42edb6661a77ba49218ca1",
       "label": "Administrador",
@@ -9,5 +15,5 @@
       "expires_at": null
     }
   ],
-  "signature": "FerCv7pwo65tehv7IaXJ9T9oBZ+GjEwJgWctYwq9c9b74Kms2GDh8xsKAT945MLyU5BUEO9zJdJU8/BP0v9gDA=="
+  "signature": "/ng+vBO2oIwgT3dRAIyjCI8kCcoSzOAxaftiD8pzXGtnqChxW5iKlZugmcfYgNTte2kR/yZbYOYotztzkfbGDg=="
 }
