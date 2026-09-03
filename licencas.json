@@ -1,7 +1,13 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-03T12:06:04.799083+00:00",
+  "generated_at": "2026-09-03T12:17:41.005414+00:00",
   "licenses": [
+    {
+      "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
+      "label": "Tia Nadine",
+      "status": "active",
+      "expires_at": null
+    },
     {
       "installation_id": "3694b23640f84f7b19a32793bf3348c5f264c00bc3c539c710e1ef78f1a0a719",
       "label": "Eder luluka",
@@ -21,5 +27,5 @@
       "expires_at": null
     }
   ],
-  "signature": "MZ3ZdRTjlgFpZ2TRf1fz6GBv7c1PsWpFt6aBO8w+7FvDCMEBv30wRcDPLxIxt/jX1blEkBBLSQTeaOzarDruCw=="
+  "signature": "s7HipgiN/hnao/P1KhgbmDvdkI3RPY0BgnZz3ZDd7X6z+fDpmCKBGG8ee0mMZgUw5ykUkcAurZJdtjtuAC9yDg=="
 }
