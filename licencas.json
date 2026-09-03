@@ -1,10 +1,16 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-03T12:19:09.397945+00:00",
+  "generated_at": "2026-09-03T14:30:16.699865+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
       "label": "Tia Nadine",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "1399d434cd76d65ee6d80a9dc9bafb7719bc3685cbbbac90c24899c9a1e8e642",
+      "label": "Rosalina",
       "status": "active",
       "expires_at": null
     },
@@ -21,5 +27,5 @@
       "expires_at": null
     }
   ],
-  "signature": "+j94rSZqW4S9JOts/37UstJewtT4ak5AKLzpDRyZvHIEydL6NlzHHaOOwmJQK0LDiBW39S7UiK76qgMJ1qurCA=="
+  "signature": "Ji0WdToFz1L2cBlhz70ttj04zdpBg+i0ObPaDzCHs2lWTvefTBq4pZnLR2y8yGym5QRMMe2ewK4YR75wb8E9Ag=="
 }
