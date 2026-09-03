@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-03T11:17:08.903910+00:00",
+  "generated_at": "2026-09-03T11:18:36.664095+00:00",
   "licenses": [
     {
       "installation_id": "3694b23640f84f7b19a32793bf3348c5f264c00bc3c539c710e1ef78f1a0a719",
       "label": "Eder",
-      "status": "blocked",
+      "status": "active",
       "expires_at": null
     },
     {
@@ -15,5 +15,5 @@
       "expires_at": null
     }
   ],
-  "signature": "6FmSOlHTDiC34tpZd+eyiv4JRoNfzbfqhXR5eN6E1S4NVGqIBKbMrJj1pLkt8mDvODKOtcLRdjVjIKv5s6fABg=="
+  "signature": "B2SXffPgcohB2RHlqWq/fONEu/lwtEaQ5maC4yrpbWSFG35kb28cPKPan4O3iOynUIuCCWt4Z8iyRlYSIZ7+BA=="
 }
