@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-03T14:30:16.699865+00:00",
+  "generated_at": "2026-09-04T11:48:40.789340+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -25,7 +25,25 @@
       "label": "Administrador",
       "status": "active",
       "expires_at": null
+    },
+    {
+      "installation_id": "cecf47e50ebcdc5ceaa7cd689771a07e5d26ec330f862d2295b32c5da0233172",
+      "label": "Beatz",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "cfef47e50ebcdc5ceaa7cd689771a07e5d26ec330f862d2295b32c5da0233172",
+      "label": "Euritson",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "cfff47e50ebcdc5ceaa7cd689771a07e5d26ec330f862d2295b32c5da0233172",
+      "label": "Euritson",
+      "status": "active",
+      "expires_at": null
     }
   ],
-  "signature": "Ji0WdToFz1L2cBlhz70ttj04zdpBg+i0ObPaDzCHs2lWTvefTBq4pZnLR2y8yGym5QRMMe2ewK4YR75wb8E9Ag=="
+  "signature": "K06RNDmT6qh7ZpOTNSTWmxrlsw8jxl4idxIdCFQgwlPzS9vNfOvj53KTb17o9X39GuIp1nhIEzx40bpdWubUAw=="
 }
