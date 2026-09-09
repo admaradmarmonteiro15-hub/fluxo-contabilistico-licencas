@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-04T12:07:16.933468+00:00",
+  "generated_at": "2026-09-09T20:42:03.856404+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -27,6 +27,12 @@
       "expires_at": null
     },
     {
+      "installation_id": "bf95cc4965e5f008be72da2dd41824a2b5c9036296133b09d134248864508eea",
+      "label": "Administrador Admar",
+      "status": "active",
+      "expires_at": null
+    },
+    {
       "installation_id": "cecf47e50ebcdc5ceaa7cd689771a07e5d26ec330f862d2295b32c5da0233172",
       "label": "ddd",
       "status": "active",
@@ -39,5 +45,5 @@
       "expires_at": null
     }
   ],
-  "signature": "d+8pZ3XJMbWJ2eexnerflWCzphuyk4nziPKB91/ZmjvwXqFCIccbcNsy5Ajgd2MvjArzo25qm8MQPiGSmVLSDQ=="
+  "signature": "sPv/JExE42vsDq5tGN1Z3i++8kKTZIDidepRWmKgsSX0WiFbs7HUfG4xOzuQJq1NvfvKwkLp+kuBmtQrYeHHBw=="
 }
