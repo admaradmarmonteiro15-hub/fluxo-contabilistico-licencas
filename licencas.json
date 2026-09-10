@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-09T21:02:31.140950+00:00",
+  "generated_at": "2026-09-10T13:28:16.966426+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -17,6 +17,12 @@
     {
       "installation_id": "9daf2f564636cfc83dae1e3f320aa7fe8e0619f8459588aef8bfdd94ce2d76cb",
       "label": "Eder",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "aa5e1b07d8bbe3c0f2b98ffdaed9e89594bfc70df230637029a1eadff638aaaa",
+      "label": "Carlos Almeida",
       "status": "active",
       "expires_at": null
     },
@@ -39,5 +45,5 @@
       "expires_at": null
     }
   ],
-  "signature": "b0Cc4M5dMMnNuoFx8xhMCDoUVAesa5SEjvfk843+l77gvYxpO4nWQr8YELICXp2Eae101EEBZXCxtVh5ati8Bw=="
+  "signature": "Wgw5V+8fGcHa6jcjaA4KXxLi5EPGzZQibXIYadB6kQNjLQwn8IJhQ1OQuiQ2mheMo+VRhAiUz7c5wfJbD/ChCQ=="
 }
