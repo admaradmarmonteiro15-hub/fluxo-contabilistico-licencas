@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-10T13:28:16.966426+00:00",
+  "generated_at": "2026-09-10T13:42:06.919466+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -11,6 +11,12 @@
     {
       "installation_id": "1399d434cd76d65ee6d80a9dc9bafb7719bc3685cbbbac90c24899c9a1e8e642",
       "label": "Rosalina",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "1c64971ccd9099de2ccb493001088fccd73806d9797f7ca85ef56ecc6bf7c731",
+      "label": "Nelida Silva",
       "status": "active",
       "expires_at": null
     },
@@ -45,5 +51,5 @@
       "expires_at": null
     }
   ],
-  "signature": "Wgw5V+8fGcHa6jcjaA4KXxLi5EPGzZQibXIYadB6kQNjLQwn8IJhQ1OQuiQ2mheMo+VRhAiUz7c5wfJbD/ChCQ=="
+  "signature": "xF/osW5+HPw3+TRd8tK1b6Y3NqJjNHdQTN8MLZ4iAQQIzZYRWPjnE6HBvGbv0J8TknvPiJNjdZAMMXxKtEuLCg=="
 }
