@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-15T12:42:01.117338+00:00",
+  "generated_at": "2026-09-15T12:42:30.395215+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -51,17 +51,11 @@
       "expires_at": null
     },
     {
-      "installation_id": "cfef47e50ebcdc5ceaa7cd689771a07e5d26ec330f862d2295b32c5da0233172",
-      "label": "Euritson",
-      "status": "active",
-      "expires_at": null
-    },
-    {
       "installation_id": "fe75424f7c498b09633b7a6541fcb829d3b64b21854dc27a8f65cc405702dfb1",
       "label": "AHENRY",
       "status": "active",
       "expires_at": null
     }
   ],
-  "signature": "OfQo9YW97mw5EDtGjnQn/0YOo6Ia7Qf6i8+b0eMAlQWSt5N2Fd+N8oyzzEnr+mBMe6/g/DvP618SN0zmpXWfAA=="
+  "signature": "8rZsIRAeXKI98UexAh+FakmSanoz4QsnL6k8FDCfkOzwKFVHOnvCxa3Lc03ve9dq8qOPibw7S5aY62NwX5rUDA=="
 }
