@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-17T17:34:42.004824+00:00",
+  "generated_at": "2026-09-17T17:36:08.675860+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -22,7 +22,7 @@
     },
     {
       "installation_id": "7f0195d0bb7d47edcd83876a1a44fcb947b67e815264fe8653f7fafacfa97548",
-      "label": "jessica",
+      "label": "jessica dd",
       "status": "active",
       "expires_at": null
     },
@@ -63,5 +63,5 @@
       "expires_at": null
     }
   ],
-  "signature": "ifz164DTMoaktIQZhELj21zkB5BAWSqGToSAzvW/dVh1XCCQv5paJ+stBgh5egyfp3iHCVS2OqEk6pqUXAdVCQ=="
+  "signature": "5CqHYh43rYDXYd8RHEkfAzHcfgA1fB2vlU0/kA5mf1vpkptgh+6svKBLaBe5wiphaqV20ZLT4UV25+o4FNQhCg=="
 }
