@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "purpose": "claudex_updates",
+  "version": "0.8.2",
+  "installer": "CLAUDEX_Instalador_v0_8_2.exe",
+  "sha256": "6a13bc0e48348abaaa0b7a30d0cc02d416bce1647794486a49c1d82d97620449",
+  "size": 195735482,
+  "released_at": "2026-10-04T18:06:51.948923+00:00",
+  "signature": "DY2iYnbRDwo764i4FAvKtjLsijG/wlMctmzg0wGR/w89reXPIzmg6mhITlWnQuiekHJKCtHnP2NRus+yGdwJBQ=="
+}
