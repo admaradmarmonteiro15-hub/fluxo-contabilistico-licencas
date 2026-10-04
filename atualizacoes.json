@@ -1,10 +1,1 @@
-{
-  "schema": 1,
-  "purpose": "claudex_updates",
-  "version": "0.8.2",
-  "installer": "CLAUDEX_Instalador_v0_8_2.exe",
-  "sha256": "6a13bc0e48348abaaa0b7a30d0cc02d416bce1647794486a49c1d82d97620449",
-  "size": 195735482,
-  "released_at": "2026-10-04T18:06:51.948923+00:00",
-  "signature": "DY2iYnbRDwo764i4FAvKtjLsijG/wlMctmzg0wGR/w89reXPIzmg6mhITlWnQuiekHJKCtHnP2NRus+yGdwJBQ=="
-}
+{"schema": 1, "purpose": "claudex_updates", "version": "0.8.3", "installer": "CLAUDEX_Instalador_v0_8_3.exe", "sha256": "67aaa7b859f3e02a569f7531e647e149c7ecaedb632ecd8d906d552d56dd70ec", "size": 195757253, "released_at": "2026-10-04T22:11:00.436597+00:00", "signature": "7IQjerStMafSBiF7esDSFvvYfqnY5uq8cobqx2ndhDU8wuvKF0ofV2rzkhEaPU0T/Oe2nLigHwNwrVuc2RCbAQ=="}
