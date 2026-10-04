@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-02T21:06:44.763264+00:00",
+  "generated_at": "2026-10-04T21:25:46.348873+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -67,7 +67,13 @@
       "label": "Admar Monteiro - Servidor CVPRI",
       "status": "active",
       "expires_at": null
+    },
+    {
+      "installation_id": "46504de77e3c404c07af90800b7477f45d27781b52ec5be043e93c2cda12a1cb",
+      "label": "Admar Monteiro - Servidor CVPRI",
+      "status": "active",
+      "expires_at": null
     }
   ],
-  "signature": "kidXqMO9+8uKZhsmu3YNIsYoSSEERFAJ3pU0/VeROCJOXHh55F0AU4yN4MWqM3T4qmaxvIaEkstjM0KWQEITCg=="
+  "signature": "FXzHSfSD11eH4l5Jc631dd9S/PY94IPG0eFZwRq82ATLljzBnuAU9zaV+fajphi1OI9OeNq1z2WJUpc+I+WdAA=="
 }
