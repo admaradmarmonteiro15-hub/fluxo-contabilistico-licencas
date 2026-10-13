@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-13T10:45:24.996831+00:00",
+  "generated_at": "2026-10-13T11:59:55.323622+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -28,13 +28,7 @@
     },
     {
       "installation_id": "7f0195d0bb7d47edcd83876a1a44fcb947b67e815264fe8653f7fafacfa97548",
-      "label": "jessica dd",
-      "status": "active",
-      "expires_at": null
-    },
-    {
-      "installation_id": "7fad09e92fb2bc81b9a671ff1c4bdb67524bdab19843858de83bd57851d2ef18",
-      "label": "servidor",
+      "label": "Jessica de Pina",
       "status": "active",
       "expires_at": null
     },
@@ -63,5 +57,5 @@
       "expires_at": null
     }
   ],
-  "signature": "gpS/Vw0Es1yWI5zKdGMbVv0SyAiTBj/th4cMoCgGmoGbe13MuUpWGfvIzAf+SDwA6vj9x8x2wY5mi/a/xG88BQ=="
+  "signature": "ktds6G6aC3uwdRxolhSnSmbMQZiBMlO1nf+CIdf7SBSOtndv/LEkkcwD8Tfo+ZmnYCI3/HxYyA6ARKMVI32LDw=="
 }
