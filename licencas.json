@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-13T10:40:54.590724+00:00",
+  "generated_at": "2026-10-13T10:41:16.338008+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
-      "label": "nadine Andrade",
+      "label": "Nadine Andrade",
       "status": "active",
       "expires_at": null
     },
@@ -75,5 +75,5 @@
       "expires_at": null
     }
   ],
-  "signature": "RzdiNkxIKlHayhxmvbqvfRRCYWIhma3lsXV5jkmP+kjYLxeJh8CokSpluyKEalH3ZmZL7RYs5Wk3F6XulhgpCA=="
+  "signature": "LeAqQMEbvCavFt6nk3vH/zjxW6wTKKjaa1M9IxufCoA9JcvQxhq/wlKAQZDPJBl/yI7PDUO8gkNwXloNx92jDw=="
 }
