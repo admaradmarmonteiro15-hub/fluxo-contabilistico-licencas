@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-13T13:45:45.011956+00:00",
+  "generated_at": "2026-10-30T16:34:18.889727+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -23,6 +23,12 @@
     {
       "installation_id": "46504de77e3c404c07af90800b7477f45d27781b52ec5be043e93c2cda12a1cb",
       "label": "Admar Monteiro - Servidor CVPRI",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "68dfea67059d41cd7c5af8f90d89c22a37f2b50582dab8e3c448f0d0ab222b4f",
+      "label": "Jessica de Pina",
       "status": "active",
       "expires_at": null
     },
@@ -63,5 +69,5 @@
       "expires_at": null
     }
   ],
-  "signature": "cj/pXhG7wJlJYkja75LEvJi3RgUrjHDqVzYpm77L8hnPzC45qgjL0NNQPBXmpIaXAv308sun4fNMAqED9y6/DQ=="
+  "signature": "d7/zIjYibM+WnfjXEj/9dN6My598cHNJpp8dem63x7cCrGmhB73e8LkjbO2Mh9FL9V3Xsz3zGrQK2usbiJWcAQ=="
 }
