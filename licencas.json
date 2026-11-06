@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-30T16:34:18.889727+00:00",
+  "generated_at": "2026-11-06T12:07:21.921679+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -23,6 +23,12 @@
     {
       "installation_id": "46504de77e3c404c07af90800b7477f45d27781b52ec5be043e93c2cda12a1cb",
       "label": "Admar Monteiro - Servidor CVPRI",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "6305ae9bf11b9da2068d58011293e5220b08d9701f0a5102c7df76fe9685067d",
+      "label": "Dircelene Oliveira",
       "status": "active",
       "expires_at": null
     },
@@ -69,5 +75,5 @@
       "expires_at": null
     }
   ],
-  "signature": "d7/zIjYibM+WnfjXEj/9dN6My598cHNJpp8dem63x7cCrGmhB73e8LkjbO2Mh9FL9V3Xsz3zGrQK2usbiJWcAQ=="
+  "signature": "0iYz+OyWZG34MJG5lqXXSUj9aZ0KuHQeungRbO+qxTatuzhagdP4C8AxjQApqgBBqwz54pJ4mZzeehmGafCyDg=="
 }
