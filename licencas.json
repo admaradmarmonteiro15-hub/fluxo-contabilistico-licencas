@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-06T12:07:21.921679+00:00",
+  "generated_at": "2026-11-06T13:54:37.999976+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -11,6 +11,12 @@
     {
       "installation_id": "1399d434cd76d65ee6d80a9dc9bafb7719bc3685cbbbac90c24899c9a1e8e642",
       "label": "Rosalina",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "18da9153d3d75279a9dfea971daa01a3759d840dbeec4b1f45f1da81fd5593b1",
+      "label": "Eunice Almeida",
       "status": "active",
       "expires_at": null
     },
@@ -45,6 +51,12 @@
       "expires_at": null
     },
     {
+      "installation_id": "88516c7922a86237865b09bc3c4e7248a8241ebad5df6d5d24121610d83e2c73",
+      "label": "Ronise Veiga",
+      "status": "active",
+      "expires_at": null
+    },
+    {
       "installation_id": "9daf2f564636cfc83dae1e3f320aa7fe8e0619f8459588aef8bfdd94ce2d76cb",
       "label": "Eder",
       "status": "active",
@@ -53,6 +65,12 @@
     {
       "installation_id": "b274e99b663b49d164540242a81178790bb40f842d42edb6661a77ba49218ca1",
       "label": "eu",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "b892039ade0d9b11168e84abc653c8e50b5f53deaffaccffac506661058b36d6",
+      "label": "Viviane Gomes",
       "status": "active",
       "expires_at": null
     },
@@ -75,5 +93,5 @@
       "expires_at": null
     }
   ],
-  "signature": "0iYz+OyWZG34MJG5lqXXSUj9aZ0KuHQeungRbO+qxTatuzhagdP4C8AxjQApqgBBqwz54pJ4mZzeehmGafCyDg=="
+  "signature": "nX878vZpLYZ5YQ5wMbPMmZw1yjTs+3wCBpMFKlYgLSOETXk+y1KOcXHlw63vwpVrTmGuZZXxJUSdN5XRn8EGDQ=="
 }
