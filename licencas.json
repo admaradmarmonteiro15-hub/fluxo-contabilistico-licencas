@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-06T13:54:37.999976+00:00",
+  "generated_at": "2026-11-06T18:00:31.059151+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -81,6 +81,12 @@
       "expires_at": null
     },
     {
+      "installation_id": "ca5439c349392b5e47053710e0f441e60d22960948efca6540d2dc18357b5f68",
+      "label": "Denise Tavares",
+      "status": "active",
+      "expires_at": null
+    },
+    {
       "installation_id": "cecf47e50ebcdc5ceaa7cd689771a07e5d26ec330f862d2295b32c5da0233172",
       "label": "EURITSON",
       "status": "active",
@@ -93,5 +99,5 @@
       "expires_at": null
     }
   ],
-  "signature": "nX878vZpLYZ5YQ5wMbPMmZw1yjTs+3wCBpMFKlYgLSOETXk+y1KOcXHlw63vwpVrTmGuZZXxJUSdN5XRn8EGDQ=="
+  "signature": "nqcBhJxJ7PeeRs+dHITGjcRVPag2zDgkFnALc9YK37JbAz1u8tz+5pyC8wxNyD2Tyk+CLoKPue+sCI9+1WvyAw=="
 }
