@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-09T14:31:37.237348+00:00",
+  "generated_at": "2026-11-09T15:12:00.040300+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -99,11 +99,17 @@
       "expires_at": null
     },
     {
+      "installation_id": "f816a0e4101c440b527e41ac07aafc80d5737e31eb5b86d605e287ee0ee404ba",
+      "label": "Artemisia Nascimento",
+      "status": "active",
+      "expires_at": null
+    },
+    {
       "installation_id": "fe75424f7c498b09633b7a6541fcb829d3b64b21854dc27a8f65cc405702dfb1",
       "label": "AHENRY",
       "status": "active",
       "expires_at": null
     }
   ],
-  "signature": "5LbfkdssbA+2hwOJfM9JEHhUaFXAt2yfthJfv74uCg87bJCG6JVgjL/VtJbhGNXqCeJ6aIA6v0tPQAtTobQyBw=="
+  "signature": "Q29zCFZHYsLRNxalYXyxI9y9hAVcY4EL1jDTS1lqAt/CxRYNQIr1a4myoaMloT5vogRiNoOaJYkGa7ilvBX1AQ=="
 }
