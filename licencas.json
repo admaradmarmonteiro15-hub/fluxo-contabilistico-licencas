@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-06T18:00:31.059151+00:00",
+  "generated_at": "2026-11-09T14:31:37.237348+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -23,6 +23,12 @@
     {
       "installation_id": "1c64971ccd9099de2ccb493001088fccd73806d9797f7ca85ef56ecc6bf7c731",
       "label": "Nelida Silva",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "3711cda84e9b7d3f4f44504e2a334a2c628e68a5cee1ec14b3a140e3fd633cef",
+      "label": "Yesmine Rodrigues",
       "status": "active",
       "expires_at": null
     },
@@ -99,5 +105,5 @@
       "expires_at": null
     }
   ],
-  "signature": "nqcBhJxJ7PeeRs+dHITGjcRVPag2zDgkFnALc9YK37JbAz1u8tz+5pyC8wxNyD2Tyk+CLoKPue+sCI9+1WvyAw=="
+  "signature": "5LbfkdssbA+2hwOJfM9JEHhUaFXAt2yfthJfv74uCg87bJCG6JVgjL/VtJbhGNXqCeJ6aIA6v0tPQAtTobQyBw=="
 }
