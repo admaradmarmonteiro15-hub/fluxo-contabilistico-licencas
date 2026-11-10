@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-10T11:08:55.934711+00:00",
+  "generated_at": "2026-11-10T16:04:38.028384+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -17,6 +17,12 @@
     {
       "installation_id": "18da9153d3d75279a9dfea971daa01a3759d840dbeec4b1f45f1da81fd5593b1",
       "label": "Eunice Almeida",
+      "status": "active",
+      "expires_at": null
+    },
+    {
+      "installation_id": "1b7b36b570ea05957ed3b2a584fa23b32c0e65c03d34796a938d8ffef1018b94",
+      "label": "Nuelisa Coronel",
       "status": "active",
       "expires_at": null
     },
@@ -123,5 +129,5 @@
       "expires_at": null
     }
   ],
-  "signature": "XEbJMGlcAdt1EltIAwEJUlhcKfTJaIDwrDTBX51uEtyMZL+1HbNlx2EVHGOUKyKxgTQa6vubir3J8NDptDLICg=="
+  "signature": "YonheqYrTNuLqAF4qIGDwPRz+VUuiIuv0i9O+hpBRgx69ion9X7xtCfrkRQKABqyzCyqSZ3E/jGQdteathgYBQ=="
 }
