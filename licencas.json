@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-10T16:05:28.550509+00:00",
+  "generated_at": "2026-11-11T15:27:16.406028+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -105,11 +105,17 @@
       "expires_at": null
     },
     {
+      "installation_id": "f130dd799328a48c3a337319c98f4ed8209835a534fae58b744e7015fc3ba247",
+      "label": "Jaceline Martins",
+      "status": "active",
+      "expires_at": null
+    },
+    {
       "installation_id": "f816a0e4101c440b527e41ac07aafc80d5737e31eb5b86d605e287ee0ee404ba",
       "label": "Artemisia Nascimento",
       "status": "active",
       "expires_at": null
     }
   ],
-  "signature": "EPu0UDlo+rVfiaTFEiNI0EH5LyxcKOaKYGjUQD9EaPsqqw7g67F5+H22k33rW9aviB+vVN2zdnKyz4XWagDiBg=="
+  "signature": "u+hHp4WmYXa3Gpcv3/d1UbcDMXCDKnchGBu66KgCZKDjeS4OuDxmWLsJg/EhaQh+e9bvwB25l+Q8rrHW7ugnDg=="
 }
