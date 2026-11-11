@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-11T15:27:16.406028+00:00",
+  "generated_at": "2026-11-11T19:18:24.739117+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -57,12 +57,6 @@
       "expires_at": null
     },
     {
-      "installation_id": "7f0195d0bb7d47edcd83876a1a44fcb947b67e815264fe8653f7fafacfa97548",
-      "label": "Jessica de Pina",
-      "status": "active",
-      "expires_at": null
-    },
-    {
       "installation_id": "88516c7922a86237865b09bc3c4e7248a8241ebad5df6d5d24121610d83e2c73",
       "label": "Ronise Veiga",
       "status": "active",
@@ -99,12 +93,6 @@
       "expires_at": null
     },
     {
-      "installation_id": "dc3619c77cb4c25c71d32ed7d88fa470eccde25b7a49b0b898391cfaf02cc23c",
-      "label": "Jaceline Martins",
-      "status": "active",
-      "expires_at": null
-    },
-    {
       "installation_id": "f130dd799328a48c3a337319c98f4ed8209835a534fae58b744e7015fc3ba247",
       "label": "Jaceline Martins",
       "status": "active",
@@ -117,5 +105,5 @@
       "expires_at": null
     }
   ],
-  "signature": "u+hHp4WmYXa3Gpcv3/d1UbcDMXCDKnchGBu66KgCZKDjeS4OuDxmWLsJg/EhaQh+e9bvwB25l+Q8rrHW7ugnDg=="
+  "signature": "7wSEF0UrtLeimHcTe2aIsymF84NJfWrUtGG0uKWrEaEO4soAvwDVtKdJpCQU/eHvBbHXXcxTSOZNknb2rg9ICw=="
 }
