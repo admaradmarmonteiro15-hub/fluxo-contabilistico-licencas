@@ -1,8 +1,15 @@
 {
   "schema": 1,
   "app": "DUCTRACK",
-  "generated_at": "2026-11-12T15:13:51.033547+00:00",
+  "generated_at": "2026-11-12T15:15:59.342222+00:00",
   "licenses": [
+    {
+      "installation_id": "199378567536ddb86732f4ca5f3b23e43a159abfffc610ef5c7e4872672fc772",
+      "label": "Teste DUCTRACK (apagar)",
+      "status": "active",
+      "expires_at": null,
+      "updated_at": "2026-11-12T15:15:59.207520+00:00"
+    },
     {
       "installation_id": "a78dde6b073fa07d10a6c11a0bc96a7f5cc1ba85a953382160e070d082c4c231",
       "label": "Admar (administrador)",
@@ -11,5 +18,5 @@
       "updated_at": "2026-11-12T15:13:50.934761+00:00"
     }
   ],
-  "signature": "h6LU2rfhf6cMV4yNHuNskC8WxQcq/6DskKwRTZTCtx15Jzkk5CCCOuRQBNzj5nA9RKeAndH2Lq9Tg2U69+VkCg=="
+  "signature": "0hWTMcXgt6OTu5iq4xhmn3BfLANfw61kiX617JfYCjQuEpLQqf0Vs40DYU9hc3c3zOJKgCix/MvXIRR758HlDQ=="
 }
