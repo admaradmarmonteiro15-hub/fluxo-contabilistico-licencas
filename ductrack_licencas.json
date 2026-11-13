@@ -1,8 +1,15 @@
 {
   "schema": 1,
   "app": "DUCTRACK",
-  "generated_at": "2026-11-12T15:16:09.326207+00:00",
+  "generated_at": "2026-11-13T10:24:41.605889+00:00",
   "licenses": [
+    {
+      "installation_id": "26f265d5a1c53c151fef9a96336ef40082b2d93809e2caf5662551cac494c2b9",
+      "label": "admar.monteiro (administrador)",
+      "status": "active",
+      "expires_at": null,
+      "updated_at": "2026-11-13T10:24:41.583137+00:00"
+    },
     {
       "installation_id": "a78dde6b073fa07d10a6c11a0bc96a7f5cc1ba85a953382160e070d082c4c231",
       "label": "Admar (administrador)",
@@ -11,5 +18,5 @@
       "updated_at": "2026-11-12T15:13:50.934761+00:00"
     }
   ],
-  "signature": "rXB9MOQFlz/BBHy8fmZ7FNXVGqLS/fVhr7id8ZopssDb+N53V5vijPLBKRABdWnqb8uLg1k5c/5kAWCy0T6EBQ=="
+  "signature": "k7He+lj5c9YLmgVBtXZTtcz+bdpmo34wAls21VMJ7oNKwVm5RfXWoB1VIiA2kcwy6nNCil8KL3EJIYffXERQDg=="
 }
