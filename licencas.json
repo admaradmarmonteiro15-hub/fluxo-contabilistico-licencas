@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:34:20.348130+00:00",
+  "generated_at": "2026-11-15T16:57:32.103796+00:00",
   "licenses": [
     {
       "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
@@ -93,12 +93,6 @@
       "expires_at": null
     },
     {
-      "installation_id": "dc3619c77cb4c25c71d32ed7d88fa470eccde25b7a49b0b898391cfaf02cc23c",
-      "label": "PC dc3619c7",
-      "status": "blocked",
-      "expires_at": null
-    },
-    {
       "installation_id": "f130dd799328a48c3a337319c98f4ed8209835a534fae58b744e7015fc3ba247",
       "label": "Jaceline Martins",
       "status": "active",
@@ -111,5 +105,5 @@
       "expires_at": null
     }
   ],
-  "signature": "DRcRvpogc5glIdf2RYfeYUZVMR3VhUkbvz6GNWqLCgT+Sk5/ZKsUFg6sO7EeU1hA+ciSRMN/GPuUdARj3kybAw=="
+  "signature": "bAI9AmSs0l6DugtxXh91WKy4EHPHCw4JD6uVfkWQ+ERMy0hJijfJhpzEoSibi4AwYwo6oa9S1WJ1VlSq22jlBw=="
 }
