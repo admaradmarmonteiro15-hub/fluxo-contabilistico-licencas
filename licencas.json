@@ -1,109 +1,128 @@
 {
-  "schema": 1,
-  "generated_at": "2026-11-15T16:57:32.103796+00:00",
+  "schema": 2,
   "licenses": [
     {
-      "installation_id": "04535d21bda8cf57dca129b463c2b715f943a3d4d3d44dfdf20fe643b717f142",
-      "label": "Nadine Andrade",
+      "code_sha256": "03bc39dfc55babf75e02c4b9aa1f9b83e892f35201eb6582c5053122f10a1dcd",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "CmC+8qTPubXyp8g2/aSxc0YicdWKWxyeBJrsLGOqF+VH64KoIwVYlg=="
     },
     {
-      "installation_id": "1399d434cd76d65ee6d80a9dc9bafb7719bc3685cbbbac90c24899c9a1e8e642",
-      "label": "Rosalina",
+      "code_sha256": "2d00101c14949882c4b42b552e6e5510933830f82d0f0e735a521cb365608c43",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "UNu7QD3oNHtWqvGvJlMhMg+ikm59pXrGrgZfKoXoBujKxFTl"
     },
     {
-      "installation_id": "18da9153d3d75279a9dfea971daa01a3759d840dbeec4b1f45f1da81fd5593b1",
-      "label": "Eunice Almeida",
+      "code_sha256": "3186d3f42ab0c7bc3ae30d9e8d082671582dab141eb2fa4e5fc07ae49544e983",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "hF2YrtNtUN/dDS/y173s3O2889VW0i/Mz9a+HlkaOBCbPTCEVFmeDhA=",
+      "pc_sha256": "6344c7a3186040bd55e811798e106ec8cc602087370a2437553ac1c442197098"
     },
     {
-      "installation_id": "1b7b36b570ea05957ed3b2a584fa23b32c0e65c03d34796a938d8ffef1018b94",
-      "label": "Nuelisa Coronel",
+      "code_sha256": "383fa10b39ce6396f50b3569fe72c877a93facec4423778807c1d7ed6ae1f724",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "bOK2LecTpAQxK45vDTp2whz5H/VuMJlODc1irssN3k3kftofHBQt",
+      "pc_sha256": "28797b4c6d76a95fbaf4f082fa10640a2bd6825e4be3ca8ef318f8383c1a7e30"
     },
     {
-      "installation_id": "1c64971ccd9099de2ccb493001088fccd73806d9797f7ca85ef56ecc6bf7c731",
-      "label": "Nelida Silva",
+      "code_sha256": "55f5e5f8bbd0696c84c7f704cb4815ce3679d31d2258cb27c713fe3811bace88",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "A8JUfUtb7V5+xin+duYOfjia16KR56xaQCN8lai6btMqRTdd3kI42/vS"
     },
     {
-      "installation_id": "3711cda84e9b7d3f4f44504e2a334a2c628e68a5cee1ec14b3a140e3fd633cef",
-      "label": "Yesmine Rodrigues",
+      "code_sha256": "595e516b62ddff7c80556521f48501614a38ae06305ac73bc115a170be3f051f",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "Wr80OFeDW0VfyNTFUCT1AVfROpmUOL9BxU4ABZyxRyr+qeY0",
+      "pc_sha256": "e83900aad9ceb11425e21e2c5df74492a236a24e977f2137b4556c03a71a9bc4"
     },
     {
-      "installation_id": "46504de77e3c404c07af90800b7477f45d27781b52ec5be043e93c2cda12a1cb",
-      "label": "Admar Monteiro - Servidor CVPRI",
+      "code_sha256": "5bfec823b11f842a6d0b319e502ea8078a9591c78b15075f601fa69d286214e4",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "pY+AcHHddhyMDncwgCN1J77k+huq0o0//eSGukaFM3+MNZMDRfq4prQB+3T1"
     },
     {
-      "installation_id": "6305ae9bf11b9da2068d58011293e5220b08d9701f0a5102c7df76fe9685067d",
-      "label": "Dircelene Oliveira",
+      "code_sha256": "6920c06805db8ada0fb687bba4e0d056e95f055bd005d45aa1b9a2bde828e4d5",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "ax0vJJU7SwWQE3NVbgXZsXpHyOdf+n4uZT8uNdl5BURi/y1rm7B18Vqx"
     },
     {
-      "installation_id": "68dfea67059d41cd7c5af8f90d89c22a37f2b50582dab8e3c448f0d0ab222b4f",
-      "label": "Jessica de Pina",
+      "code_sha256": "82f2e658bad315c22772cd3fb8e9387b0d93ab06b5ef3d60c6dcb429f41f0215",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "ubSgT9KwZNqNh3IMpwgUZKM2ynHZMP/XTXA9cfNYae9CgnRDd3VYV90Piw==",
+      "pc_sha256": "5566f4a4a16f5956edf46f8a93e2f673b438dd69a6e0ad776b4ee74ffb5d32eb"
     },
     {
-      "installation_id": "88516c7922a86237865b09bc3c4e7248a8241ebad5df6d5d24121610d83e2c73",
-      "label": "Ronise Veiga",
+      "code_sha256": "83651be0387d9cd9aa23414a1c31a1b0a9dd01166f5d246c615b83ff64a56515",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "VVCfw7+GhXdyJVPleAH7qY/Z7a1+qYLO18G6zZ70O+ryfYto1Pex2qghiB4=",
+      "pc_sha256": "5287b528f5db9f0081a1d07847ede24b543379f6a2918bc352664c6b206f2de0"
     },
     {
-      "installation_id": "af87c0b07d48fa60f6c8e2b8168fde56245a333e0a806105678b7f3873832822",
-      "label": "Kira Barros",
+      "code_sha256": "902e2be45c9ab2516e4960be1e9b6f4340d79295688529f3a24a7c4424ee083e",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "7alU0f5QDJjhFMwZl4Ak6DdDDpcTOe3yLgKwBOcopp0NKhVA4uCRJQ=="
     },
     {
-      "installation_id": "b892039ade0d9b11168e84abc653c8e50b5f53deaffaccffac506661058b36d6",
-      "label": "Viviane Gomes",
+      "code_sha256": "98b6b6c23a158e7e9b49354151a9de05c0fcbc6dc8c95d20fd67cfaf87afbea4",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "RxOhyYkeCg/vVCSRE9eANqqPjYwwlg1bxDihQAN6/040AmDPfMF2AIujuA=="
     },
     {
-      "installation_id": "bf95cc4965e5f008be72da2dd41824a2b5c9036296133b09d134248864508eea",
-      "label": "Administrador Admar",
+      "code_sha256": "9d58c04a181707ed47e8a06b907683c1d3ae0e425b5afe4f7ea1dba2c40b51ef",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "o2vLUfhjp0fYL4iQt7CNjVZwvjcMtcdvibxYO60gzbVr9sX59Tj/AA=="
     },
     {
-      "installation_id": "ca5439c349392b5e47053710e0f441e60d22960948efca6540d2dc18357b5f68",
-      "label": "Denise Tavares",
+      "code_sha256": "a3ae383e0ffdcf41b879b7d6433ceb18d21b1e270092ba1d69db20de941bd7e9",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "emO4o5VLwVjJBuLN+x62GNZP9fCrnBSJzS3lI5fNHIYMODs+F0jipTWnIm4GUjDmdKlIvRWBE86/fFI=",
+      "pc_sha256": "7ddf51cf000bef818f38f47d6e6a9cf3fe793d1fb4378b32e14952cac4c654e0"
     },
     {
-      "installation_id": "cecf47e50ebcdc5ceaa7cd689771a07e5d26ec330f862d2295b32c5da0233172",
-      "label": "EURITSON",
+      "code_sha256": "abd5bd8bd5025203c24e2bed7192adb6e90706597079f7be9cd6d29f33ebfb75",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "RY1MNEwXTDPkmtegSLg8T9t9+ZyEtQkY5gH7zWAy2JUqurTpZjotF+ehRUJnzXFR"
     },
     {
-      "installation_id": "f130dd799328a48c3a337319c98f4ed8209835a534fae58b744e7015fc3ba247",
-      "label": "Jaceline Martins",
+      "code_sha256": "b58be918f18a041792fa79362a2efed59c2e3cc8a40e3e0d2e2ec9f397ea72ed",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "95zjD07igtumA405fRW5KZ5fC86mealUhiUYUYVuXfK7WDCsvoTZzejNykPEOg=="
     },
     {
-      "installation_id": "f816a0e4101c440b527e41ac07aafc80d5737e31eb5b86d605e287ee0ee404ba",
-      "label": "Artemisia Nascimento",
+      "code_sha256": "c711858864068e83b2bd51681bebb3dc1e4c8214d30a776d94188bb4b18fe137",
+      "status": "blocked",
+      "expires_at": null,
+      "name_sealed": "b/kf9bE/K7dqeYZbsI6+sywVku5TeEF0m6CMRI209nvmrDIQCkLh"
+    },
+    {
+      "code_sha256": "cfa811e3362af4852e39da82c8e26c3f1382ae8fe0071f9af380e16b736d7a2c",
       "status": "active",
-      "expires_at": null
+      "expires_at": null,
+      "name_sealed": "xHIbKimZb1tx9xErnPNkvN/6GqMENdzDfGAiQ2+3UqNXAlfrh9ycJ2HQGziRKuE="
+    },
+    {
+      "code_sha256": "ed23532d09f0caab90d614a10393beadcc2696ec6f7a2b4dfbb12d106633ba19",
+      "status": "active",
+      "expires_at": null,
+      "name_sealed": "/1tzM2W4yAxEY3Xq9tZqGS8XVyF7IYnYrgjlqQS1a0mxYXsieYhHxHY1",
+      "pc_sha256": "57d1eeedef96cedc8628c65f87e3eddb8d57b156f381f0e6f1fe13a7f58570d4"
     }
   ],
-  "signature": "bAI9AmSs0l6DugtxXh91WKy4EHPHCw4JD6uVfkWQ+ERMy0hJijfJhpzEoSibi4AwYwo6oa9S1WJ1VlSq22jlBw=="
+  "generated_at": "2026-11-20T12:11:40.881262+00:00",
+  "signature": "qfz1vJ4DGO4FGo2mtZjszKRyMXBBbZo+Y1jmWJH5zE3No9pTsg0yvNZzE5m0t/vDfJYeVMj9nRi2CWkAD4vNAA=="
 }
