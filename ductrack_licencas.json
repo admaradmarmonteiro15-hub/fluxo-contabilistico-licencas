@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "app": "DUCTRACK",
-  "generated_at": "2026-11-27T11:04:25.110222+00:00",
+  "generated_at": "2026-11-27T11:05:40.007233+00:00",
   "licenses": [
     {
       "installation_id": "26f265d5a1c53c151fef9a96336ef40082b2d93809e2caf5662551cac494c2b9",
@@ -23,7 +23,14 @@
       "status": "active",
       "expires_at": null,
       "updated_at": "2026-11-12T15:13:50.934761+00:00"
+    },
+    {
+      "installation_id": "e5241311462d9e343ca3d1fc2d37629e7a20fbc5d8b141ab0bef740a8f9d42a6",
+      "label": "Rosalina Tavares",
+      "status": "active",
+      "expires_at": null,
+      "updated_at": "2026-11-27T11:05:40.004719+00:00"
     }
   ],
-  "signature": "7BGktpDuQPzDTg5Jt7Z4ff5DJQRiDIwolzUIr9vZOtmZB4bGLA74FXbu/VR+Q/8h/MNr+1fSdb1P9HHm+80qAA=="
+  "signature": "pzdLkD+Z8+h0UjrPOS+Eub37g2FmtE9XNZuUcTjH0HsJuAdmMKCXFKELRSSGrNZDYlfinOJlcUa2xdCFQjh8BQ=="
 }
